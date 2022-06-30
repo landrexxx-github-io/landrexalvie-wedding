@@ -26,13 +26,12 @@ function Story() {
             An affirmation that in a blink of an eye, their whole life and future changed. 
             </p>
             <p>
-              It all happened on a Sunday night when she was playing mobile legends. 
-              It was as if a voice told her to go to the leaderboard. And out of nowhere 
-              and in a way completely unexpected, unbelievable and unanticipated. She came 
-              face to face with a man who seemed..familiar. 
+              It all happened on a Sunday night when she was playing. 
+              And out of nowhere and in a way completely unexpected, unbelievable and unanticipated. 
+              She came face to face with a man who seemed..familiar. 
             </p>
             <p>
-              He was playing and he always tends to look on his ML profile to see who has viewed it. 
+              He was playing and he always tends to look on his profile to see who has viewed it. 
               There he saw her. And for him, after meeting her, all the doubts and insecurities 
               melted away, as if they had never even existed. His ‘nevers’ transformed into ‘always’ 
               his ‘not nows’ changed into ‘forever.’
