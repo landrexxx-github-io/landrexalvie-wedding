@@ -14,7 +14,7 @@ function Footer () {
                 </span>
               </a>
             </h2>
-            <p className='copyright'>July 09, 2022 – Cantilan, Surigal del Sur</p>
+            <p className='copyright'>July 09, 2022 – Cantilan, Surigao del Sur</p>
           </div>
         </div>
       </div>

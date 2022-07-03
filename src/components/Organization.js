@@ -114,7 +114,7 @@ function Organization() {
                     <h6>
                       Ryan Ace J. Cruiz <i className='ti-heart'></i>
                     </h6>{' '}
-                    <span>Groomsmen</span>
+                    <span>Groomsman</span>
                   </div>
                 </div>
               </div>
@@ -156,7 +156,7 @@ function Organization() {
                     <h6>
                       Marksid J. Cruiz <i className='ti-heart'></i>
                     </h6>{' '}
-                    <span>Groomsmen</span>
+                    <span>Groomsman</span>
                   </div>
                 </div>
               </div>
@@ -198,7 +198,7 @@ function Organization() {
                     <h6>
                       Aljon Grapes C. Gayda <i className='ti-heart'></i>
                     </h6>{' '}
-                    <span>Groomsmen</span>
+                    <span>Groomsman</span>
                   </div>
                 </div>
               </div>
@@ -240,7 +240,7 @@ function Organization() {
                     <h6>
                       Jekyll C. Mariñas <i className='ti-heart'></i>
                     </h6>{' '}
-                    <span>Groomsmen</span>
+                    <span>Groomsman</span>
                   </div>
                 </div>
               </div>
@@ -281,7 +281,7 @@ function Organization() {
                     <h6>
                       Roden O. Rebuera <i className='ti-heart'></i>
                     </h6>{' '}
-                    <span>Groomsmen</span>
+                    <span>Groomsman</span>
                   </div>
                 </div>
               </div>
