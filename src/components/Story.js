@@ -1,6 +1,7 @@
 import React from 'react'
 // import storyImage from '../assets/images/story.jpg'
-import storyImage from '../assets/images/OurStory3.jpg'
+import storyImage from '../assets/images/OurStory3.webp'
+
 function Story() {
   return (
     <div id='story' className='story section-padding'>

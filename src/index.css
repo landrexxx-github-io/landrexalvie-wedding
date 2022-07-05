@@ -878,7 +878,7 @@ body.slide .oliven-nav-toggle {
 }
 .header.parallaxie {
   /* background-image: url(./assets/images/cover-page.jpg); */
-  background-image: url(./assets/images/header-cover.jpg);
+  background-image: url(./assets/images/header-cover.webp);
 }
 @media screen and (max-width: 991px) {
     .header {

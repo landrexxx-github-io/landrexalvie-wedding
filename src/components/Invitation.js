@@ -1,10 +1,10 @@
 import React from 'react'
-import gallery1 from '../assets/images/invitation/1.png'
-import gallery2 from '../assets/images/invitation/2.png'
-import gallery3 from '../assets/images/invitation/3.png'
-import gallery4 from '../assets/images/invitation/4.png'
-import gallery5 from '../assets/images/invitation/5.png'
-import gallery6 from '../assets/images/invitation/6.png'
+import gallery1 from '../assets/images/invitation/1.webp'
+import gallery2 from '../assets/images/invitation/2.webp'
+import gallery3 from '../assets/images/invitation/3.webp'
+import gallery4 from '../assets/images/invitation/4.webp'
+import gallery5 from '../assets/images/invitation/5.webp'
+import gallery6 from '../assets/images/invitation/6.webp'
 
 function Invitation () {
   return (
